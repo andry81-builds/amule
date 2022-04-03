@@ -1,3 +1,7 @@
+2022.04.03:
+* new: README.md, .github/FUNDING.yml: shared donate link and badge
+* changed: README.md: readme update
+
 2022.02.09:
 * new: release build of 2.3.3 with wxWidgets 2.8.12, Windows XP (v141_xp) / 2021-12-05 / https://github.com/amule-project/amule/commit/e26d06a6eeaf37c716a88a47890cb85b931a0538
 

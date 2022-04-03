@@ -10,6 +10,12 @@ Builds is based on steps taken from these links:
 Used dependencies and versions is enlisted in the readme of a release.
 </div>
 
+<!-- -->
+<p align="center">
+  <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandry81-builds%2Famule&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" valign="middle" alt="hits" /></a>
+</p>
+<!-- -->
+
 <p align="center">
   <a href="https://github.com/andry81-stats/amule--gh-stats/commits/master/traffic/views">
     <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Github%20views|all&query=count&url=https://github.com/andry81-stats/amule--gh-stats/raw/master/traffic/views/latest-accum.json?raw=True&logo=github" valign="middle" alt="GitHub views|any|total" />
@@ -32,17 +38,9 @@ Used dependencies and versions is enlisted in the readme of a release.
   <a href="https://github.com/andry81-builds/amule/blob/master/changelog.txt">Changelog</a>
 </p>
 
-
 <p align="center">
-  <a href="https://github.com/sponsors/andry81"><img src="https://github.com/andry81/andry81/raw/master/badges/github-sponsor.svg" valign="middle" alt="github sponsor" /></a>
-• <a href="https://www.paypal.com/cgi-bin/webscr?item_name=Donation+to+amule-builds&cmd=_donations&business=andry%40inbox.ru"><img src="https://github.com/andry81/andry81/raw/master/badges/paypal-donate.svg" valign="middle" alt="paypal donate" /></a>
+  <a href="https://github.com/andry81/donate"><img src="https://github.com/andry81/andry81/raw/master/badges/donate.svg" valign="middle" alt="donate" /></a>
 </p>
-
-<!-- -->
-<p align="center">
-  <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandry81-builds%2Famule&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" valign="middle" alt="hits" /></a>
-</p>
-<!-- -->
 
 ---
 
